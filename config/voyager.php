@@ -130,7 +130,7 @@ return [
          * Select languages that are supported.
          */
         'locales' => [
-            'fr',
+            'en',
             //'pt',
         ],
     ],
